@@ -1,0 +1,79 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(images/lead-Education.jpg) no-repeat;
+    background-size: cover;
+}
+.box{
+  width: 1000px;
+  background: rgba(0, 0, 0, 0.5);
+  padding: 10px;
+  text-align: center;
+  margin: auto;
+  margin-top: 5%;
+  color: white;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.box1{
+    width: 600px;
+    border: 2px white;
+    box-sizing: border-box;
+    background: rgba(0, 0, 0, 0.2);
+    padding: 10px;
+    text-align: center;
+    margin: auto;
+    margin-top: 1.5%;
+    color: white;
+    
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+.box-img{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+.box1.h4{
+    font-size: 30px;
+    letter-spacing: 4px;
+    font-weight: 100;
+}
+.box1.h5{
+    font-size: 20px;
+    letter-spacing: 3px;
+    font-weight: 75;
+}
+table, th, td {
+    border: 1px solid rgb(255, 255, 255);
+  }
+.box.p{
+    text-align: justify;
+}
+ul{
+    margin: 0;
+    padding: 00;
+}
+.box li{
+    display: inline-flex;
+    word-spacing: 50px;
+    margin: 6px;
+    list-style: none;
+}
+.box li a{
+    color: white;
+    word-spacing: normal;
+    text-decoration: none;
+    font-size: 25px;
+    transition: all ease-in-out 200ms;
+}
+.box li a:hover{
+    color: #6297f8;
+}
+footer{
+    padding: 0;
+    font-size: 15px;
+    text-align: right;
+    bottom: 0;
+    margin: 0;
+    height: 25px;
+    color: white;
+    }

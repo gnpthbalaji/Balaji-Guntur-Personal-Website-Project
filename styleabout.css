@@ -1,0 +1,58 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(images/lead-about.jpg) no-repeat;
+    background-size: cover;
+}
+.box{
+  width: 600px;
+  background: rgba(0, 0, 0, 0.55);
+  padding: 10px;
+  text-align: center;
+  margin: auto;
+  margin-top: 5%;
+  color: white;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.box.h2{
+    font-size: 40px;
+    letter-spacing: 4px;
+    font-weight: 50;
+}
+.box.h4{
+    font-size: 20px;
+    letter-spacing: 3px;
+    font-weight: 100;
+}
+.box.p{
+    text-align: justify;
+    font-size: 25px;
+    letter-spacing: 10px;
+}
+ul{
+    margin: 0;
+    padding: 0;
+}
+.box li{
+    display: inline-block;
+    margin: 6px;
+    list-style: none;
+}
+.box li a{
+    color: white;
+    text-decoration: none;
+    font-size: 25px;
+    transition: all ease-in-out 200ms;
+}
+.box li a:hover{
+    color: #6297f8;
+}
+footer{
+    padding: 0;
+    font-size: 15px;
+    text-align: right;
+    bottom: 0;
+    margin: 0;
+    height: 5px;
+    color: white;
+    }
