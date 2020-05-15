@@ -3,6 +3,8 @@ body{
     padding: 0;
     background: url(images/lead-about.jpg) no-repeat;
     background-size: cover;
+    width: fit-content;
+    height: fit-content;
 }
 .box{
   width: 600px;
