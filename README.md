@@ -6,4 +6,4 @@ The Website Contains Following Items.
 2. About Page- Background Information and Small Story about my life
 3. Education page- My Undergrad, MBA, Skills and Other certification
 4. Experience page- My Overall years of experience, companies I worked for and projects I worked and supported.
-5. Contact Page- Will contain my phone #, linkedin Id and Text Box for sending emails. 
+5. Contact Page- Will contain my phone #, linkedin Id. 
