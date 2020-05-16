@@ -24,12 +24,12 @@ body{
     width: 200px;
     height: 200px;
     width: auto;
-    height: auto;
+
 }
 table, th, td {
     border: 1px solid rgb(19, 18, 18);
     width: auto;
-    height: auto;
+
     max-width: fit-content;
     max-height: fit-content;
 }
@@ -38,19 +38,18 @@ table, th, td {
     letter-spacing: 4px;
     font-weight: 100;
     width: auto;
-    height: auto;
-    max-width: fit-content;
-    max-height: fit-content;
+
+
 }
 .box.h4{
    
     width: auto;
-    height: auto;
+   
     max-width: fit-content;
     max-height: fit-content;
 }
 .box.p{
-
+    width: auto;
     text-align: justify;
 
     max-width: fit-content;
