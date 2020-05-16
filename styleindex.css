@@ -2,13 +2,13 @@ body{
     margin: 0;
     padding: 0;
     background: url(images/lead-bg_new.jpg) no-repeat;
-    background-size: cover;
+    background-size:cover;
 }
 .box{
-  width: 750px;
+  width: 1000px;
   height: 500px;
-  background: rgba(0, 0, 0, 0.5);
-  padding: 10px;
+  background: rgba(0, 0, 0, 0.75);
+  padding: 5px;
   text-align: center;
   margin: auto;
   margin-top: 5%;
@@ -17,11 +17,12 @@ body{
 }
 .box-img{
     border-radius: 50%;
-    width: 200px;
-    height: 200px;
+    width: 100px;
+    height: 100px;
+    float: left;
 }
 .box.h1{
-    font-size: 40px;
+    font-size: 25px;
     letter-spacing: 4px;
     font-weight: 100;
 }
@@ -31,8 +32,12 @@ body{
     font-weight: 100;
 }
 .box.p{
-    text-align: justify;
+    font-size: 18px;
+    letter-spacing: 3px;
+    font-weight: 100;
+    text-align: center;
 }
+
 ul{
     margin: 0;
     padding: 0;
@@ -57,6 +62,6 @@ footer{
     text-align: right;
     bottom: 0;
     margin: 0;
-    height: 5px;
+    height: 20px;
     color: white;
     }
