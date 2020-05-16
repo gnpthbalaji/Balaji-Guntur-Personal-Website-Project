@@ -58,12 +58,16 @@ ul{
     display: inline-block;
     margin: 6px;
     list-style: none;
+    width: auto;
+    height: auto;
 }
 .box li a{
     color: rgb(20, 20, 20);
     text-decoration: none;
     font-size: 25px;
     transition: all ease-in-out 200ms;
+    width: auto;
+    height: auto;
 }
 .box li a:hover{
     color: #6297f8;
