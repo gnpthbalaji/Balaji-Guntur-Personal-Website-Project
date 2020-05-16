@@ -26,6 +26,13 @@ body{
     float: left;
     width: auto;
 }
+table, th, td {
+  border: 1px solid rgb(19, 18, 18);
+  width: auto;
+
+  max-width: fit-content;
+  max-height: fit-content;
+}
 .box.h1{
     font-size: 25px;
     letter-spacing: 4px;
@@ -38,6 +45,7 @@ body{
     font-weight: 100;
     width: auto;
 }
+
 .box.p{
     font-size: 18px;
     letter-spacing: 3px;
