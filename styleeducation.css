@@ -17,6 +17,8 @@ body{
   margin-top: 3%;
   color: white;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  max-width: fit-content;
+  max-height: fit-content;
 }
 .box1{
     width: auto;
