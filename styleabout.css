@@ -1,16 +1,20 @@
 body{
     margin: 0;
     padding: 0;
-    background: url(images/lead-about.jpg) no-repeat;
+    background: url(images/lead-about.jpg) repeat-y;
     background-size: cover;
+    width: auto;
+    height: auto;
 }
 .box{
-  width: 700px;
-  height: 400px;
+  width: 1000px;
+  height: 500px;
   background: rgba(0, 0, 0, 0.75);
   padding: 10px;
   text-align: center;
   margin: auto;
+  max-width: fit-content;
+  max-height: fit-content;
   margin-top: 5%;
   color: white;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
