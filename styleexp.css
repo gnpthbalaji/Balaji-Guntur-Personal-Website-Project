@@ -1,13 +1,13 @@
 body{
     margin: 0;
     padding: 0;
-    background: url(images/lead-experience.jpg);
+    background: url(images/lead-experience.jpg) no-repeat;
     background-size: cover;
     width: auto;
     height: auto;
 }
 .box{
-  width: 1100px;
+    
   background: rgba(248, 245, 245, 0.9);
   padding: 10px;
   text-align: center;
