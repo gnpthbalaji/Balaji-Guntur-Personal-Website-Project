@@ -7,19 +7,18 @@ body{
     height: 100%;
 }
 .box{
-
-  background: rgba(248, 245, 245, 0.9);
-  padding: 10px;
-  text-align: center;
-  width: auto;
-  height: 100%;
-  margin: auto;
-  max-width: fit-content;
-  max-height: fit-content;
-  margin-top: 1%;
-  color: rgb(7, 7, 7);
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
+    width: auto;
+    height: auto;
+    background: rgba(252, 249, 249, 0.75);
+    padding: 5px;
+    text-align: center;
+    margin: auto;
+    margin-top: 2.5%;
+    color: rgb(10, 10, 10);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    max-width: fit-content;
+    max-height: fit-content;
+  }
 .box-img{
     border-radius: 50%;
     width: 200px;
@@ -44,18 +43,14 @@ table, th, td {
     max-height: fit-content;
 }
 .box.h4{
-    font-size: 25px;
-    letter-spacing: 3px;
-    font-weight: 100;
+   
     width: auto;
     height: auto;
     max-width: fit-content;
     max-height: fit-content;
 }
 .box.p{
-    font-size: 25px;
-    letter-spacing: 3px;
-    font-weight: 100;
+
     text-align: justify;
     width: auto;
     height: auto;
