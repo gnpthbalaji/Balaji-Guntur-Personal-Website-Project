@@ -14,6 +14,8 @@ body{
   text-align: center;
   margin: auto;
   margin-top: 2.5%;
+  margin-left: auto;
+  margin-right: auto;
   color: rgb(8, 8, 8);
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   max-width: fit-content;
