@@ -1,0 +1,125 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(images/lead-experience.jpg) no-repeat;
+    background-size:cover;
+    width: auto;
+    height: auto;
+}
+.box{
+  width: auto;
+  height: auto;
+  background: rgba(245, 243, 243, 0.75);
+  padding: 5px;
+  text-align: center;
+  margin: auto;
+  margin-top: 2.5%;
+  color: rgb(8, 8, 8);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  max-width: fit-content;
+  max-height: fit-content;
+}
+.box-img{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    float: left;
+    width: auto;
+}
+.box.h1{
+    font-size: 25px;
+    letter-spacing: 4px;
+    font-weight: 100;
+    width: auto;
+}
+.box.h3{
+    font-size: 20px;
+    letter-spacing: 3px;
+    font-weight: 100;
+    width: auto;
+}
+.box.p{
+    font-size: 18px;
+    letter-spacing: 3px;
+    font-weight: 100;
+    text-align: center;
+    width: auto;
+}
+
+ul{
+    margin: 0;
+    padding: 0;
+    width: auto;
+    height: auto;
+}
+.box li{
+    display: inline-block;
+    margin: 6px;
+    list-style: none;
+    width: auto;
+    height: auto;
+}
+.box li a{
+    color: rgb(12, 12, 12);
+    text-decoration: none;
+    font-size: 25px;
+    transition: all ease-in-out 200ms;
+   
+}
+.box li a:hover{
+    color: #6297f8;
+}
+ul2{
+    margin: 0;
+    padding: 0;
+    height: auto;
+    width: auto;
+    
+}
+.box li2{
+    display: inline-block;
+    margin: 6px;
+    list-style: none;
+    
+}
+.box li2 a{
+  color: rgb(245, 238, 238);
+  text-decoration: darkgray;
+  font-size: 30px;
+  transition: all ease-in-out 200ms;
+ 
+}
+.box li2 a:hover{
+  color: #fdfeff;
+}
+.fa {
+  padding: 10px;
+  font-size: 25px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 60%;
+}
+.fa-facebook {
+  background: #3B5998;
+  color: rgb(255, 255, 255);
+       }
+.fa-google {
+  background: #dd4b39;
+  color: rgb(247, 242, 242);  
+}
+.fa-linkedin {
+  background: #007bb5;
+  color: rgb(255, 255, 255);
+  
+}  
+footer{
+    padding: 0;
+    font-size: 15px;
+    text-align: right;
+    bottom: 0;
+    margin: 0;
+    height: 20px;
+    color: white;
+    }
