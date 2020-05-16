@@ -33,6 +33,7 @@ table, th, td {
   height: auto;
   max-width: fit-content;
   max-height: fit-content;
+  text-align: justify;
 }
 .box.h1{
     font-size: 25px;
