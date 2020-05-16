@@ -4,7 +4,7 @@ body{
     background: url(images/lead-experience.jpg) no-repeat;
     background-size: cover;
     width: auto;
-    height: auto;
+    height: 100%;
 }
 .box{
 
