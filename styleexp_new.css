@@ -29,7 +29,7 @@ body{
 table, th, td {
   border: 1px solid rgb(19, 18, 18);
   width: auto;
-
+  height: auto;
   max-width: fit-content;
   max-height: fit-content;
 }
