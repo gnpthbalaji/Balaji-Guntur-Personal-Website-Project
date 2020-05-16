@@ -7,7 +7,7 @@ body{
     height: auto;
 }
 .box{
-    
+
   background: rgba(248, 245, 245, 0.9);
   padding: 10px;
   text-align: center;
@@ -34,11 +34,15 @@ table, th, td {
     font-size: 40px;
     letter-spacing: 4px;
     font-weight: 100;
+    width: auto;
+    height: auto;
 }
 .box.h4{
     font-size: 15px;
     letter-spacing: 3px;
     font-weight: 100;
+    width: auto;
+    height: auto;
 }
 .box.p{
     text-align: justify;
