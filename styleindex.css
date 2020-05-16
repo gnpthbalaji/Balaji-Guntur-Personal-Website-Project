@@ -1,14 +1,14 @@
 body{
     margin: 0;
     padding: 0;
-    background: url(images/lead-bg_new.jpg) repeat-y;
+    background: url(images/lead-bg_new.jpg) no-repeat;
     background-size:cover;
     width: auto;
     height: auto;
 }
 .box{
-  width: 1100px;
-  height: 550px;
+  width: auto;
+  height: auto;
   background: rgba(0, 0, 0, 0.75);
   padding: 5px;
   text-align: center;
