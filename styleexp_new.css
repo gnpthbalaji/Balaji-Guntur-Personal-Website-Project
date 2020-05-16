@@ -14,7 +14,7 @@ body{
   text-align: center;
   margin: auto;
   margin-top: 2.5%;
-  
+
   color: rgb(8, 8, 8);
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   max-width: fit-content;
@@ -53,6 +53,7 @@ table, th, td {
     font-weight: 100;
     text-align: center;
     width: auto;
+    text-align: justify;
 }
 
 ul{
