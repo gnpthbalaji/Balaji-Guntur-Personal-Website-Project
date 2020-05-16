@@ -28,6 +28,8 @@ body{
 }
 table, th, td {
     border: 1px solid rgb(7, 7, 7);
+    width: auto;
+    height: auto;
 }
 .box.h1{
     font-size: 40px;
@@ -45,6 +47,8 @@ table, th, td {
 }
 .box.p{
     text-align: justify;
+    width: auto;
+    height: auto;
 }
 ul{
     margin: 0;
