@@ -4,7 +4,7 @@ body{
     background: url(images/lead-experience.jpg) no-repeat;
     background-size: cover;
     width: auto;
-    height: 100%;
+    height: auto;
 }
 .box{
     width: auto;
@@ -27,7 +27,7 @@ body{
     height: auto;
 }
 table, th, td {
-    border: 1px solid rgb(7, 7, 7);
+    border: 1px solid rgb(19, 18, 18);
     width: auto;
     height: 100%;
     max-width: fit-content;
