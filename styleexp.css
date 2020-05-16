@@ -52,8 +52,7 @@ table, th, td {
 .box.p{
 
     text-align: justify;
-    width: auto;
-    height: auto;
+
     max-width: fit-content;
     max-height: fit-content;
 }
