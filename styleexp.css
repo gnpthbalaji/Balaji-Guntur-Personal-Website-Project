@@ -1,7 +1,7 @@
 body{
     margin: 0;
     padding: 0;
-    background: url(images/lead-experience.jpg) repeat-y;
+    background: url(images/lead-experience.jpg);
     background-size: cover;
     width: auto;
     height: auto;
