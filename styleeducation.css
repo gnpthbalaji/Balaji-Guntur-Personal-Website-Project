@@ -49,11 +49,12 @@ body{
     letter-spacing: 3px;
     font-weight: 50;
 }
-table, th, td {
+table, th, td, tr {
     border: 1px solid rgb(255, 255, 255);
+    text-align: center;
   }
 .box.p{
-    text-align: justify;
+    text-align: left;
 }
 ul{
     margin: 0;
